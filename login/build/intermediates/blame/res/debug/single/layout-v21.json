@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\aa8174936868631b998572ad3228fe01\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\aa8174936868631b998572ad3228fe01\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\aa8174936868631b998572ad3228fe01\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\aa8174936868631b998572ad3228fe01\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

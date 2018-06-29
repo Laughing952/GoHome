@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res"/><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\build\generated\res\rs\debug"/><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res"><file name="bg_bottom_button" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\drawable\bg_bottom_button.xml" qualifiers="" type="drawable"/><file name="a_edit_password" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\a_edit_password.xml" qualifiers="" type="layout"/><file name="a_forget_password" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\a_forget_password.xml" qualifiers="" type="layout"/><file name="a_login" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\a_login.xml" qualifiers="" type="layout"/><file name="a_permissions" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\a_permissions.xml" qualifiers="" type="layout"/><file name="a_register" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\a_register.xml" qualifiers="" type="layout"/><file name="s_down_load_apk" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\layout\s_down_load_apk.xml" qualifiers="" type="layout"/><file name="logo" path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\mipmap-hdpi\logo.png" qualifiers="hdpi-v4" type="mipmap"/><file path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color></file><file path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Login</string><string name="help">帮助</string><string name="string_help_text">当前应用缺少必要权限。
+        请点击"设置"-"权限"-打开所需权限。
+    </string><string name="quit">退出</string><string name="settings">设置</string></file><file path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="TextInputEditTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="TextInputLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_marginTop">50dp</item>
+    </style><style name="BottomBottonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:background">@drawable/bg_bottom_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="TextView_GetCode_Style">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/bg_bottom_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="ErrorText">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">12sp</item>
+    </style></file></source><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\build\generated\res\rs\debug"/><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\UniStrong\zhaotongzhisheng\GoHome\login\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\no_more.xml",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\no_more.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\base_load_failed.xml",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\base_load_failed.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\base_empty.xml",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\base_empty.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\base_error.xml",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\base_error.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\33d62de9afb2ad619b230fb276e39d47\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\33d62de9afb2ad619b230fb276e39d47\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

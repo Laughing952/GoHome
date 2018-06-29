@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\RecyclerViewLibrary\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,174",
+                        "endColumns": "55,62,52",
+                        "endOffsets": "106,169,222"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\RecyclerViewLibrary\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,174",
+                        "endColumns": "55,62,52",
+                        "endOffsets": "106,169,222"
+                    }
+                }
+            ]
+        }
+    ]
+}

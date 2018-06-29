@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\raw\\capk.pkcs12",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\raw\\capk.pkcs12"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\raw\\cabks.bks",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\raw\\cabks.bks"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\raw\\srca.cer",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\raw\\srca.cer"
+    }
+]

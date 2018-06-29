@@ -1,0 +1,15 @@
+com.login.databinding.ARegisterBinding
+com.global.databinding.ItemDialogPlusPlusBinding
+com.login.databinding.ALoginBinding
+com.global.databinding.ItemPublishedGridaBinding
+com.global.databinding.SeekbarDragHorizontalBinding
+com.global.databinding.ActivityClipImageBinding
+com.login.databinding.AForgetPasswordBinding
+com.global.databinding.PopSeldateBinding
+android.databinding.DataBindingComponent
+com.login.databinding.AEditPasswordBinding
+com.waterbase.databinding.DialogListBinding
+com.global.databinding.ActivityMyPhotoBinding
+com.global.databinding.ListDialogPlusPlusBinding
+com.global.databinding.ItemTextBinding
+com.global.databinding.ItemGridViewCreateGeneralRequestBinding

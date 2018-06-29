@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\no_more.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\no_more.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\base_empty.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\base_empty.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\base_load_failed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\base_load_failed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\base_error.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\base_error.png"
+    }
+]

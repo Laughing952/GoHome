@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_turn_on.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_turn_on.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_desk_pressed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_desk_pressed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_camera.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_center_arc.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\btn_center_arc.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_company_announcement.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_company_announcement.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\scan.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\qrcode\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\scan.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_tg_on.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_tg_on.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\topbar_icon_cancle_white.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\topbar_icon_cancle_white.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\light_on.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\qrcode\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\light_on.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_ok.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_ok.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_contactlist_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_contactlist_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_request.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_request.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_management.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_management.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\quality.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\quality.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_no_msg.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_no_msg.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\address_book.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\address_book.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_sound.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_sound.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\topbar_icon_more_blue.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\topbar_icon_more_blue.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_turn_off.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_turn_off.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_apply_pressed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_apply_pressed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_contactlist_pressed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_contactlist_pressed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bt_dynamic_del_focused.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\bt_dynamic_del_focused.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_working_task.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_working_task.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_top_arc.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\btn_top_arc.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_bottom_arc.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\btn_bottom_arc.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_del.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_del.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_apply_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_apply_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_user_pressed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_user_pressed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_search.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_checked_box.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_checked_box.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\light_off.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\qrcode\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\light_off.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_user_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_user_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\topbar_icon_back_white.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\topbar_icon_back_white.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_unchecked_box.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_unchecked_box.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_edit.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_setting.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_arrow_down.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_arrow_down.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bt_dynamic_del_unfocused.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\bt_dynamic_del_unfocused.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_desk_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_desk_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_arrow_right.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_arrow_right.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_program_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_program_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_project_pressed.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_project_pressed.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\navigation_project_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\navigation_project_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\wdlv.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\wdlv.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\material_management.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\material_management.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_tg_off.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_tg_off.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_add.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_add.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_have_msg.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_have_msg.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_punch.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_punch.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_map.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_map.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_search_blue.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_search_blue.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\record_merit.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\record_merit.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\image_add.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\image_add.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_head_normal.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_head_normal.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_more.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_more.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_phone.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_undo_plan.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\global\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_undo_plan.png"
+    },
+    {
+        "merged": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\login\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\topbar_icon_help_white.png",
+        "source": "D:\\UniStrong\\zhaotongzhisheng\\GoHome\\waterbase\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\topbar_icon_help_white.png"
+    }
+]
